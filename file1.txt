@@ -1,4 +1,4 @@
-[jenkins]
+
 name=description
 baseurl/mirrorlist/mirroroff= URL for Jenkins repo - location or server where all packages are stored.
 enabled=0/1   - enable/disable repo
