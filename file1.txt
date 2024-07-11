@@ -4,3 +4,4 @@ baseurl/mirrorlist/mirroroff= URL for Jenkins repo - location or server where al
 enabled=0/1   - enable/disable repo
 gpgcheck=0/1   - enable/disable the key check for connecting the URL
 gpgkeys=/etc/ppk/certs
+okay
